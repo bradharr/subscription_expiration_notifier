@@ -1,1 +1,1 @@
-# dice_game
+# subscription_expiration_notifier
